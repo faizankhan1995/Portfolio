@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.b5c68d05.js"
   },
   {
-    "revision": "21f233e19402cc4a66866a7f31191f0d",
-    "url": "/static/media/Agustina.21f233e1.woff"
-  },
-  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "21f233e19402cc4a66866a7f31191f0d",
+    "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/media/contactMail.68e84138.webp"
   },
   {
-    "revision": "1fb7ebd2bcc711674593866fc3e30476",
+    "revision": "1e1c53c3a37152b59044fc31a92770a0",
     "url": "/index.html"
   }
 ];
