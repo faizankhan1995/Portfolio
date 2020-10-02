@@ -4,12 +4,20 @@
   "private": true,
   "homepage": "https://seunzone.github.io/TD-React-Challenge-Test-1",
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "apollo-boost": "^0.4.9",
     "bootstrap": "3",
+    "colorthief": "^2.3.2",
     "gh-pages": "^2.0.1",
+    "graphql": "^15.3.0",
     "react": "^16.5.2",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.4"
+    "react-easy-emoji": "^1.4.0",
+    "react-headroom": "^3.0.0",
+    "react-reveal": "^1.2.2",
+    "react-scripts": "2.0.4",
+    "react-twitter-embed": "^3.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
